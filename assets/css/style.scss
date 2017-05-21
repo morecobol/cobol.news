@@ -4,10 +4,20 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  background-color: black;
+  background: none;
+  height: 300px;
 }
 
 .page-header::before {
-  background-image: url('../images/cobol-news-banner-grey.svg');
-  opacity: 1.0;
+  background-image: url('../images/cobol-news-banner-grey-hifi.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 300px;
+  z-index: -1;
+  opacity: 0.95;
+  content: '';
 }

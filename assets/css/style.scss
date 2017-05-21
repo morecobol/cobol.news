@@ -4,5 +4,10 @@
 @import "{{ site.theme }}";
 
 .page-header {
+  background-color: black;
+}
+
+.page-header::before {
   background-image: url('../images/cobol-news-header-background.svg');
+  opacity: 0.9;
 }

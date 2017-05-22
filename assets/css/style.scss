@@ -1,7 +1,20 @@
 ---
 ---
 
+$maroon: #990000;
+
 @import "{{ site.theme }}";
+
+body {
+  color: black;
+}
+
+h2, h3 {
+  color: $maroon;
+}
+h4, h5 {
+  color: black;
+}
 
 .page-header {
   background: none;
@@ -21,3 +34,4 @@
   opacity: 0.95;
   content: '';
 }
+

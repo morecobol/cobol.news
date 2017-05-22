@@ -9,11 +9,14 @@ body {
   color: black;
 }
 
-h2, h3 {
-  color: $maroon;
-}
-h4, h5 {
-  color: black;
+.main-content {
+
+  h2, h3 {
+    color: $maroon;
+  }
+  h4, h5 {
+    color: black;
+  }
 }
 
 .page-header {
@@ -33,5 +36,9 @@ h4, h5 {
   z-index: -1;
   opacity: 0.95;
   content: '';
+
+  .project-tagline {
+    color: white;
+  }
 }
 

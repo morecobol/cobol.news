@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Latest Issue
 
-You can use the [editor on GitHub](https://github.com/morecobol/cobol.news/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Succeeding with Cobol in The City of Champions
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### May 29, 2017
 
-### Markdown
+The Steel City is a growing tech hub uniquely positioned at the forefront of the driverless car industry, is home to the top-ranked Computer Science program at Carnegie Mellon University, and regularly ranks among the largest employers for Cobol and Mainframe developers. [**Full Article**](articles/5-29-2017-cobol-in-pittsburgh).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Trending Topics
 
-```markdown
-Syntax highlighted code block
+- cobol on rasbpi
+- cobol.run
+- Visual Cobol 2017
 
-# Header 1
-## Header 2
-### Header 3
+### Featured Jobs
 
-- Bulleted
-- List
+- caci cobol job
 
-1. Numbered
-2. List
+- bny job
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/morecobol/cobol.news/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Would you like to sponsor a Job or Article, or Topic on this site? Advertising rates are $50/wk each. If interested, send us a note.

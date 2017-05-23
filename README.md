@@ -1,6 +1,4 @@
-## Latest Issue
-
-### Succeeding with Cobol in The City of Champions
+## Succeeding with Cobol in The City of Champions
 
 #### May 29, 2017
 
@@ -8,15 +6,10 @@ The Steel City is a growing tech hub uniquely positioned at the forefront of the
 
 ### Trending Topics
 
-- cobol on rasbpi
-- cobol.run
-- Visual Cobol 2017
+- [Elastic Cobol on Raspberry Pi](http://heirloomcomputing.com/elasticcobol/)
+- [cobol.run: Serverless Cobol on Openwhisk](https://github.com/morecobol/cobol.run)
+- [Micro Focus Visual Cobol 2017](https://www.microfocus.com/products/visual-cobol/)
 
 ### Featured Jobs
 
-- caci cobol job
-
-- bny job
-
-
-Would you like to sponsor a Job or Article, or Topic on this site? Advertising rates are $50/wk each. If interested, send us a note.
+- [Cobol Developer at CACI in Norfolk, VA](http://careers.caci.com/ShowJob/Id/1042140/COBOL-Developer/)
